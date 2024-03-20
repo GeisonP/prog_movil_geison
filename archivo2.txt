@@ -1,1 +1,2 @@
-Clase aobre ramas en GIT
+Clase sobre ramas en GIT
+Segundo cambio para aplicar pull request
